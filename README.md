@@ -1,6 +1,10 @@
 # WhatsApp Agent Kit
 
-Version 0.2, 19 Sep 2026. Bright Coast AI. From Rob Lee.
+By Rob Lee, [Bright Coast AI](https://www.brightcoast.ai).
+
+Copyright 2026 Bright Coast AI. For Bright Coast AI clients and anyone Bright Coast AI has given this kit to. See [LICENSE](LICENSE).
+
+Version 0.2, 19 Sep 2026.
 
 ## What it is
 
@@ -67,3 +71,11 @@ New photos, PDFs and documents in the messages Claude reads are opened automatic
 - **Voice notes** are transcribed with faster-whisper by the scripts in `scripts/`, set up in step 4 of the prompt. If that step fails, voice notes are not transcribed until it is fixed, and Claude says so.
 - **Claude Code Desktop Routines** (scheduled tasks) only run while the app is open and the computer is awake. The background sync does not depend on the app.
 - **One number per store.** Named accounts exist in wacli but are not part of this kit.
+
+## Found a problem?
+
+If something does not work, please write to support@brightcoast.ai. The kit also has a `FEEDBACK.md` template for telling Rob what happened.
+
+## Licence
+
+The Bright Coast AI Client Skills Licence. The kit is for Bright Coast AI clients and for anyone Bright Coast AI has given the kit, or a link to it, directly (for example Rob, an email, a meeting or the client portal). This repo is public so you can download it in one click, but being able to see it does not give you the right to use, copy or share it. Please do not copy, republish or resell it. To ask for permission, write to support@brightcoast.ai. The full terms are in [LICENSE](LICENSE).
