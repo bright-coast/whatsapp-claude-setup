@@ -3,6 +3,9 @@ name: whatsapp
 description: Read, summarise, draft and (only when the user says send) send WhatsApp messages, and create groups or add people, using the wacli command line. Use whenever the user mentions WhatsApp, a WhatsApp chat or group, what someone messaged them, a digest of messages, drafting or sending a reply, or introducing people in a new group.
 ---
 
+> A Bright Coast AI skill, made by Rob Lee. Part of the WhatsApp Agent Kit: github.com/bright-coast/whatsapp-claude-setup
+> Copyright 2026 Bright Coast AI. For Bright Coast AI clients and people Bright Coast AI has given the kit to, not for copying or redistribution: see LICENSE at github.com/bright-coast/whatsapp-claude-setup.
+
 # WhatsApp with wacli
 
 You work with the user's real WhatsApp through `wacli`, a linked device on their own number. Everything is stored locally in `~/.wacli`. Before drafting, read `voice-and-format.md`. Before any digest, read `triage-preferences.md`. Both are in the project folder.
