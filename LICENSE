@@ -1,0 +1,65 @@
+Bright Coast AI Client Skills Licence, version 1.0 (25 September 2026)
+
+Copyright (c) 2026 Bright Coast AI. All rights reserved.
+
+This is a source-available licence, not an open source licence. The Materials are published in a public repository so that Bright Coast AI clients can download them in one click. Being able to see or download them does not, by itself, give you the right to use them.
+
+1. What this covers
+
+"Materials" means everything in this repository: the setup prompt, the scripts, the templates, the kit's skill and the documents, and every copy of them. It does not include the things you make using them (see section 7).
+
+2. Who may use the Materials
+
+You are an "Authorised User" if any one of these is true:
+(a) you, or the organisation you work for, are a client of Bright Coast AI (a current engagement, subscription or written agreement, including access to the Bright Coast AI client portal); or
+(b) Bright Coast AI gave you the kit, or a link to it, directly. For example: Rob Lee sent it to you, you received it in an email or message from Bright Coast AI, it was shared in a meeting, or you got it through the Bright Coast AI client portal; or
+(c) Bright Coast AI has given you written permission. An email is enough.
+
+If you only found the repository yourself, for example by searching the internet, you are not an Authorised User until one of the above is true. You may read the Materials, but you may not install, run, copy or use them. To ask for permission, write to support@brightcoast.ai.
+
+3. What Authorised Users may do, free of charge
+
+(a) Read the Materials.
+(b) Install and run them on computers you own or control, for your own use or for the internal use of your own organisation.
+(c) Let people in your own organisation use them the same way.
+(d) Keep your own private edits and your own settings files for that use.
+
+4. What nobody may do without written permission from Bright Coast AI, Authorised Users included
+
+(a) Copy, republish, mirror, host or redistribute the Materials, or any part of them, in any form. That includes putting them in a public or shared repository, a template, a course, a marketplace, a plugin or a package.
+(b) Sell, rent, license or offer the Materials, or anything copied or closely derived from them, as a product or a service, or hand them to someone else as part of paid work.
+(c) Remove or change the copyright, credit or licence notices, or present the Materials as your own work.
+(d) Use the Materials, or anything you make with them, to train, fine-tune or evaluate a machine learning model, or to build a competing product.
+(e) Change how the update mechanism works in order to distribute modified versions.
+
+5. Your agreement with Bright Coast AI
+
+If you are a client, the Materials are part of your engagement and section 3 applies to them. If your agreement with Bright Coast AI says something different about these Materials, your agreement wins.
+
+6. Ideas are not covered
+
+This licence covers the text and code of the Materials. It does not stop you from having, using or writing about your own ideas, or from building your own tools from scratch that do similar jobs.
+
+7. What you make is yours
+
+Notes, briefings, pages and other things you make using the Materials belong to you. The credit line that a skill puts on a page it makes stays on that page.
+
+8. Other people's tools
+
+Some Materials mention or point to tools made by other people. Those tools have their own licences and their own risks. This licence gives you no rights to them, and Bright Coast AI does not vouch for them.
+
+9. No warranty
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE FULLEST EXTENT THE LAW ALLOWS, BRIGHT COAST AI IS NOT LIABLE FOR ANY CLAIM, DAMAGE OR LOSS ARISING FROM THE MATERIALS OR THEIR USE.
+
+10. Ending
+
+Your rights under this licence end automatically if you break it. Bright Coast AI may also end them by telling you in writing. When they end, stop using the Materials and delete your copies.
+
+11. Permission and questions
+
+To ask for permission to do something this licence does not allow, or to ask anything about it, write to support@brightcoast.ai.
+
+12. Law
+
+This licence is governed by the laws of New South Wales, Australia.
